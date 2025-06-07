@@ -1,8 +1,8 @@
 # Tenzies Dice Game
 
-Roll a set of dice
-Lock a dice when its number matches
-Get 10 of the same number to win!
+- Roll a set of dice
+- Lock a dice when its number matches
+- Get 10 of the same number to win!
 
 ## How to run
 
